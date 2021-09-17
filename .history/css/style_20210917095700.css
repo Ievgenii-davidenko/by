@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-color: rgb(160, 245, 120);
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    display: flex;
+   
+}
+.list__item {
+    justify-content: space-between;
+    padding: 20px 30px;
+    text-align: 24px;
+    border : 2px solid;
+}
